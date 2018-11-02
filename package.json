@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p 9999"
+  },
+  "dependencies": {
+    "@zeit/next-less": "^1.0.1",
+    "antd": "^3.10.3",
+    "axios": "^0.18.0",
+    "axois": "^1.0.0",
+    "less": "^3.8.1",
+    "next": "^7.0.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.1",
+    "file-loader": "^2.0.0",
+    "less-loader": "^4.1.0",
+    "style-loader": "^0.23.1"
+  }
+}
